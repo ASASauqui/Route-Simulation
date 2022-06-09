@@ -1,0 +1,17 @@
+[
+    {
+      "productID": 0,
+      "productName": "Refresco",
+      "productPrice": 20.0
+    },
+	{
+      "productID": 1,
+      "productName": "Pan fresco",
+      "productPrice": 10.0
+    },
+	{
+      "productID": 2,
+      "productName": "Verdura congelada",
+      "productPrice": 15.0
+    },
+  ]

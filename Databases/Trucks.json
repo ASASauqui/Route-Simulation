@@ -1,0 +1,17 @@
+[
+    {
+      "truckID": 0,
+      "truckAmount": 3,
+      "truckCapacity": 120
+    },
+	{
+      "truckID": 1,
+      "truckAmount": 3,
+      "truckCapacity": 270
+    },
+	{
+      "truckID": 2,
+      "truckAmount": 3,
+      "truckCapacity": 95
+    },
+  ]

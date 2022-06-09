@@ -1,0 +1,11 @@
+--- 05/06/2022 - 11:44:21:  Se agregó un camión de sodas.
+--- 05/06/2022 - 11:44:22:  Se agregó un camión de pan.
+--- 05/06/2022 - 11:44:23:  Comienzo de la simulación.
+--- 05/06/2022 - 11:44:24:  Se agregó un camión de verduras.
+--- 05/06/2022 - 11:44:25:  Comienzo de la simulación.
+--- 05/06/2022 - 11:44:33:  Se agregó un camión de sodas.
+--- 05/06/2022 - 11:44:34:  Comienzo de la simulación.
+--- 05/06/2022 - 11:44:34:  Fin de la simulación.
+--- 05/06/2022 - 11:44:59:  Se seleccionó abrir en .txt
+--- 05/06/2022 - 11:44:59:  Se seleccionó abrir en Grid
+--- 05/06/2022 - 11:45:00:  Se seleccionó abrir en TextBox
